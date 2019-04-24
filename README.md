@@ -7,7 +7,7 @@
 http://159.69.60.242:2288/api/list_csv_files
 ```
 
-#### Use the api link below to read the csv files, you can choose the csf file you want to view and choose the specific colums as well if ou dont specify the colun all the colums are seen
+#### Use the api link below to read the csv files, you can choose the csf file you want to view and choose the specific columns as well if dont specify the column, all the colums are shown
 ```
 http://159.69.60.242:2288/api/read_csv?csv_file=data.csv&columns=user_id,vehicle_model_id&page=2
 ```
